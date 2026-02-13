@@ -223,28 +223,3 @@ Dashboard akan terbuka di browser pada `http://localhost:8501`
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-## 🙏 Acknowledgments
-
-- Dataset: [Bike Sharing Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset)
-- Inspiration: Real-world bike sharing systems analysis
-- Tools: Streamlit, Plotly, Scikit-learn communities
-
-## 📞 Contact
-
-For questions or feedback, please open an issue or contact [your.email@example.com](mailto:your.email@example.com)
-
----
-
-⭐ If you found this project helpful, please consider giving it a star!
-
-**Last Updated**: February 2024
