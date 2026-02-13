@@ -1,10 +1,10 @@
-## 🤝 Kontribusi Kelompok 
-10124011 - Amhar Razka Ariyanto 
-10124025 - Rafli Zeirofi
-10124041 - Ryan Setiawan
-10124042 - Jaifar Husnayan Hakim
-10124043 - Aditia Pramudia
-10124475 - Daffa Rizky Ramadhan
+## 🤝 Kontribusi Kelompok <br>
+10124011 - Amhar Razka Ariyanto <br> 
+10124025 - Rafli Zeirofi <br>
+10124041 - Ryan Setiawan <br>
+10124042 - Jaifar Husnayan Hakim <br>
+10124043 - Aditia Pramudia <br>
+10124475 - Daffa Rizky Ramadhan <br>
 
 # 🚴 Bike Sharing Analytics Dashboard
 
